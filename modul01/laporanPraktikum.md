@@ -33,7 +33,8 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/modul01/blob/main/output/output-assesment01.png)
+![Screenshot Output Unguided 1_!] (output/output-assesment01.png)
+
 [Program ini digunakan untuk menerima 3 input string, menampilkan urutan awalnya sesuai dengan urutan input dimasukkan, kemudian ditukar posisi nilai inputnya dengan rotasi (satu-> dua, dua -> tiga, tiga -> satu) menggunakan variabel sementara (temp) lalu menampilkan urutan yang baru.]
 
 
