@@ -3,9 +3,7 @@
 
 ## Unguided 
 
-### 1. [Telusuri program berikut dengan cara mengkompilasi dan mengeksekusi program. Silakan
-masukan data yang sesuai sebanyak yang diminta program. Perhatikan keluaran yang
-diperoleh. Coba terangkan apa sebenarnya yang dilakukan program tersebut?]
+### 1. [Telusuri program berikut dengan cara mengkompilasi dan mengeksekusi program. Silakan masukan data yang sesuai sebanyak yang diminta program. Perhatikan keluaran yang diperoleh. Coba terangkan apa sebenarnya yang dilakukan program tersebut?]
 #### assesment01.go
 
 ```go
@@ -40,18 +38,7 @@ func main() {
 [Program ini digunakan untuk menerima 3 input string, menampilkan urutan awalnya sesuai dengan urutan input dimasukkan, kemudian ditukar posisi nilai inputnya dengan rotasi (satu-> dua, dua -> tiga, tiga -> satu) menggunakan variabel sementara (temp) lalu menampilkan urutan yang baru.]
 
 
-### 2. [Siswa kelas IPA di salah satu sekolah menengah atas di Indonesia sedang mengadakan
-praktikum kimia. Di setiap percobaan akan menggunakan 4 tabung reaksi, yang mana
-susunan warna cairan di setiap tabung akan menentukan hasil percobaan. Siswa diminta
-untuk mencatat hasil percobaan tersebut. Percobaan dikatakan berhasil apabila susunan
-warna zat cair pada gelas 1 hingga gelas 4 secara berturutan adalah ‘merah’, ‘kuning’,
-‘hijau’, dan ‘ungu’ selama 5 kali percobaan berulang.
-Buatlah sebuah program yang menerima input berupa warna dari ke 4 gelas reaksi
-sebanyak 5 kali percobaan. Kemudian program akan menampilkan true apabila urutan
-warna sesuai dengan informasi yang diberikan pada paragraf sebelumnya, dan false
-untuk urutan warna lainnya.
-Perhatikan contoh sesi interaksi program seperti di bawah ini (teks bergaris bawah
-adalah input/read):]
+### 2. [Siswa kelas IPA di salah satu sekolah menengah atas di Indonesia sedang mengadakan praktikum kimia. Di setiap percobaan akan menggunakan 4 tabung reaksi, yang mana susunan warna cairan di setiap tabung akan menentukan hasil percobaan. Siswa diminta untuk mencatat hasil percobaan tersebut. Percobaan dikatakan berhasil apabila susunan warna zat cair pada gelas 1 hingga gelas 4 secara berturutan adalah ‘merah’, ‘kuning’, ‘hijau’, dan ‘ungu’ selama 5 kali percobaan berulang. Buatlah sebuah program yang menerima input berupa warna dari ke 4 gelas reaksi sebanyak 5 kali percobaan. Kemudian program akan menampilkan true apabila urutan warna sesuai dengan informasi yang diberikan pada paragraf sebelumnya, dan false untuk urutan warna lainnya. Perhatikan contoh sesi interaksi program seperti di bawah ini (teks bergaris bawah adalah input/read):]
 #### assesment02.go
 
 ```go
@@ -82,16 +69,7 @@ func main() {
 Jadi setiap kita masukkan warna, programnya langsung bandingin urutan warna yang kita masukkan dengan urutannya yang dianggap benar. Kalau urutannya sama persis, maka percobaannya dianggap benar(true). Tapi kalau ada satu saja yang berbeda atau urutannya tidak sesuai, maka percobaannya salah(false).]
 
 
-### 3. [PT POS membutuhkan aplikasi perhitungan biaya kirim berdasarkan berat parsel. Maka,
-buatlah program BiayaPos untuk menghitung biaya pengiriman tersebut dengan ketentuan
-sebagai berikut!
-Dari berat parsel (dalam gram), harus dihitung total berat dalam kg dan sisanya (dalam
-gram). Biaya jasa pengiriman adalah Rp. 10.000,- per kg. Jika sisa berat tidak kurang dari 500
-gram, maka tambahan biaya kirim hanya Rp. 5,- per gram saja. Tetapi jika kurang dari 500
-gram, maka tambahan biaya akan dibebankan sebesar Rp. 15,- per gram. Sisa berat (yang
-kurang dari 1kg) digratiskan biayanya apabila total berat ternyata lebih dari 10kg.
-Perhatikan contoh sesi interaksi program seperti di bawah ini (teks bergaris bawah
-adalah input/read):]
+### 3. [PT POS membutuhkan aplikasi perhitungan biaya kirim berdasarkan berat parsel. Maka, buatlah program BiayaPos untuk menghitung biaya pengiriman tersebut dengan ketentuan sebagai berikut! Dari berat parsel (dalam gram), harus dihitung total berat dalam kg dan sisanya (dalam gram). Biaya jasa pengiriman adalah Rp. 10.000,- per kg. Jika sisa berat tidak kurang dari 500 gram, maka tambahan biaya kirim hanya Rp. 5,- per gram saja. Tetapi jika kurang dari 500 gram, maka tambahan biaya akan dibebankan sebesar Rp. 15,- per gram. Sisa berat (yang kurang dari 1kg) digratiskan biayanya apabila total berat ternyata lebih dari 10kg. Perhatikan contoh sesi interaksi program seperti di bawah ini (teks bergaris bawah adalah input/read):]
 #### assesment03.go
 
 ```go
