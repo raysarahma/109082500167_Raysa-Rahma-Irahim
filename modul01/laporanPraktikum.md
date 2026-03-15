@@ -33,7 +33,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul02/output/output-assesment01.png) 
+![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul01/output/output-assesment01.png) 
 
 [Program ini digunakan untuk menerima 3 input string, menampilkan urutan awalnya sesuai dengan urutan input dimasukkan, kemudian ditukar posisi nilai inputnya dengan rotasi (satu-> dua, dua -> tiga, tiga -> satu) menggunakan variabel sementara (temp) lalu menampilkan urutan yang baru.]
 
@@ -64,7 +64,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul02/output/output-assesment02.png)
+![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul01/output/output-assesment02.png)
 [Program ini untuk mengecek susunan warna pada percobaan kimia apakah sudah benar atau belum. Jadi di program ini kita diminta memasukkan warna dari 4 gelas sebanyak 5 kali percobaan. Setiap 1 kali percobaan itu kita masukkan 4 warna yang mewakili isi dari 1 sampai gelas 4. Urutan warna yang dianggap benar itu adalah : merah, kuning, hijau, ungu.
 Jadi setiap kita masukkan warna, programnya langsung bandingin urutan warna yang kita masukkan dengan urutannya yang dianggap benar. Kalau urutannya sama persis, maka percobaannya dianggap benar(true). Tapi kalau ada satu saja yang berbeda atau urutannya tidak sesuai, maka percobaannya salah(false).]
 
@@ -110,7 +110,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul02/output/output-assesment03.png)
+![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul01/output/output-assesment03.png)
 [Program ini untuk menghitung biaya kirim paket berdasarkan berat parsel. Kita diminta memasukkan berat parsel dalam satuan (gram). Setelah itu programnya bakal hitung berapa beratnya dalam kilogram dan berapa sisa gramnya. Berat dalam kilogram dapat dari pembagian berat dengan 1000, sedangkan sisa gramnya diproleh dari sisa pembagian yang tadi. 
 Lalu program bakal hitung biaya pengirimannya, biaya untuk 1kg adalah Rp.10.000 jadi jumlah kilogram itu dikalikan dengan Rp.10.000 untuk biaya utama. Selanjutnya program hitung biaya dari sisa beratnya, jika sisa beratnya 500 gram atau lebih, maka biaya bertambah Rp.5 per gram. Namun kalau sisa beratnya kurang dari 500 gram, biaya tambahannya menjadi Rp15 per gram. 
 Selain itu ada aturan khusus, yaitu jika total berat parsel lebih dari 10 kg, maka sisa gramnya digratiskan. Jadi yang dibayar hanya biaya kilogramnya saja.]  
