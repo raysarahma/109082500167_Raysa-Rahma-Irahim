@@ -143,5 +143,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul04 /output/output-assesment03.png)
+![Screenshot Output Unguided 3] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul04/output/output-assesment03.png)
 [Program ini dibuat buat nampilin deret bilangan sesuai aturan yang ada di soal. Program mulai dari satu angka awal n yang diinput. Angka ini nanti diproses terus sampai akhirnya jadi 1, dan setiap nilainya bakal ditampilkan dalam satu baris dipisahin spasi. Prosesnya ada di prosedur cetakDeret. Di dalamnya, program nge-loop terus, setiap langkah nilai n langsung dicetak dulu. Setelah itu dicek, kalau n genap maka dibagi 2, kalau ganjil diubah jadi 3n + 1. Hasilnya dipakai lagi buat langkah berikutnya. Proses ini diulang terus sampai n jadi 1, baru berhenti. Di bagian main, program cuma baca satu input angka, lalu manggil prosedur cetakDeret buat ngejalanin dan nampilin deretnya. Jadi, program ini ngikutin aturan deret dari angka awal sampai 1 dan nampilin semua langkahnya.]  
