@@ -49,7 +49,7 @@ func didalam(cx, cy, r, x, y float64) bool {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment01.png) 
+![Screenshot Output Unguided 1_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment01.png) 
 [Program ini untuk mengecek sebuah titik apakah berada di dalam atau di luar dua lingkaran. Program menerima input yang kita masukkan berupa titik pusat dan jari-jari dari dua lingkaran, serta satu titik yang mau dicek posisinya. Setelah itu, program bakal hitung jarak antara titik tersebut dengan pusat masing-masing lingkaran memakai fungsi jarak. Lalu jarak digunakan pada fungsi didalam untuk mengecek apakah titik tersebut masih di dalam lingkaran atau tidak dengan membandingkan jarak dan jari-jari lingkaran. Dari hasil itu, program bakal menampilkan apakah titik berada di dalam lingkaran 1, di dalam lingkaran 2, di dalam kedua lingkaran, atau di luar kedua lingkaran.]
 
 
@@ -149,7 +149,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 2_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment02.png)
+![Screenshot Output Unguided 2_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment02.png)
 [Program ini dibuat untuk mengolah sekumpulan bilangan bulat yang disimpan dalam sebuah array. Pertama, kita memasukkan jumlah data, kemudian nilai-nilai tersebut dimasukkan ke dalam array. Program lalu menampilkan seluruh isi array, serta menampilkan elemen berdasarkan indeks ganjil dan genap (dengan asumsi indeks ke-0 adalah genap). Selanjutnya, kita memasukkan nilai x untuk menampilkan elemen pada indeks kelipatan x.
 
 Program juga menyediakan fitur untuk menghapus elemen pada indeks tertentu dengan cara menggeser elemen setelahnya, lalu jumlah data dikurangi satu agar data yang dihapus tidak ikut ditampilkan. Setelah itu, program menghitung rata-rata dari seluruh elemen, serta menghitung standar deviasi dengan membandingkan setiap nilai terhadap rata-rata. Terakhir, kita memasukkan suatu bilangan untuk mengetahui frekuensi kemunculannya di dalam array. Hasil akhir yang ditampilkan mencakup isi array, pengelompokan indeks, hasil setelah penghapusan, rata-rata, standar deviasi, dan frekuensi bilangan tersebut.]
@@ -205,7 +205,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment03.png)
+![Screenshot Output Unguided 3_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment03.png)
 [Program ini digunakan untuk menentukan hasil dari beberapa pertandingan antara dua klub. Pada awalnya, kita memasukkan nama dua klub yang akan bertanding. Selanjutnya, program meminta kita memasukkan skor dari setiap pertandingan secara berulang. Proses input akan berhenti jika salah satu skor yang dimasukkan bernilai negatif. Setiap hasil pertandingan kemudian disimpan ke dalam array, yaitu nama klub yang menang, atau “Draw” jika kedua skor sama.
 
 Setelah semua data pertandingan dimasukkan, program akan menampilkan hasil setiap pertandingan secara berurutan berdasarkan data yang telah disimpan sebelumnya. Terakhir, program menampilkan pesan bahwa seluruh pertandingan telah selesai.]  
@@ -277,7 +277,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment04.png) 
+![Screenshot Output Unguided 4_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul09/output/output-assesment04.png) 
 [Program ini digunakan untuk mengolah sebuah teks yang dimasukkan oleh kita, kemudian mengecek apakah teks tersebut merupakan palindrom atau tidak, serta menampilkan hasil pembalikan teks tersebut. Teks dimasukkan karakter per karakter ke dalam array bertipe rune hingga ditemukan tanda titik (.) sebagai penanda akhir input atau kapasitas array telah terpenuhi. Selama proses input, spasi dan karakter newline tidak ikut disimpan ke dalam array agar hanya karakter penting saja yang diproses.
 
 Setelah data tersimpan, program akan mengecek apakah teks tersebut merupakan palindrom dengan cara membandingkan karakter dari depan dan belakang secara berpasangan. Jika semua pasangan karakter sama, maka teks dinyatakan sebagai palindrom. Selanjutnya, program membalik urutan karakter dalam array menggunakan metode pertukaran antara elemen depan dan belakang. Hasil akhir yang ditampilkan adalah status palindrom serta teks yang sudah dibalik urutannya.]
