@@ -42,7 +42,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul10/output/output-assesment01.png) 
+![Screenshot Output Unguided 1_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul12/output/output-assesment01.png) 
 [Program ini dibuat untuk menghitung hasil suara pada pemilihan ketua RT. Data suara dimasukkan satu per satu dan akan berhenti ketika memasukkan angka 0 sebagai tanda akhir input. Setiap data yang masuk akan dihitung sebagai suara masuk, kemudian program melakukan pengecekan apakah nomor yang dimasukkan termasuk nomor calon yang valid, yaitu antara 1 sampai 20. Jika valid, suara tersebut akan dihitung sebagai suara sah dan jumlah suaranya akan disimpan sesuai nomor calon yang dipilih. Setelah semua data selesai dibaca, program menampilkan jumlah seluruh suara yang masuk serta jumlah suara sah. Selanjutnya program menampilkan daftar calon yang memperoleh suara beserta banyaknya suara yang diterima oleh masing-masing calon.]
 
 
@@ -107,7 +107,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 2_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul10/output/output-assesment02.png)
+![Screenshot Output Unguided 2_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul12/output/output-assesment02.png)
 [Program ini digunakan untuk menentukan ketua RT dan wakil ketua RT berdasarkan hasil pemungutan suara. Program membaca data suara, memvalidasi suara yang bernilai 1 sampai 20, lalu menghitung jumlah suara yang diperoleh setiap calon. Setelah seluruh data diproses, program mencari calon dengan suara terbanyak sebagai ketua RT dan calon dengan suara terbanyak kedua sebagai wakil ketua RT. Hasil akhirnya berupa jumlah suara masuk, jumlah suara sah, serta nomor calon yang terpilih sebagai ketua dan wakil ketua RT.]
 
 
@@ -170,6 +170,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul10/output/output-assesment03.png)
+![Screenshot Output Unguided 3_!]  (https://github.com/raysarahma/109082500167_Raysa-Rahma-Irahim/blob/main/modul12/output/output-assesment03.png)
 [Program ini digunakan untuk mencari suatu bilangan pada kumpulan data yang sudah terurut dengan menggunakan metode Binary Search. Program akan membaca jumlah data, nilai yang ingin dicari, serta data-data yang tersedia. Selanjutnya pencarian dilakukan dengan memeriksa elemen yang berada di posisi tengah array. Jika nilai yang dicari lebih besar atau lebih kecil dari nilai tengah, maka proses pencarian akan dilanjutkan hanya pada bagian array yang masih mungkin mengandung nilai tersebut. Jika data ditemukan, program akan menampilkan indeksnya. Namun jika data tidak ditemukan, program akan menampilkan tulisan "TIDAK ADA". Penggunaan Binary Search membuat proses pencarian menjadi lebih cepat dan efisien karena tidak perlu memeriksa seluruh data satu per satu.]  
 
